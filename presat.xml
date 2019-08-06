@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<simulation>
+  <version>2</version>
+  <T1>0.5</T1>
+  <T2>0.5</T2>
+  <nnu0>200</nnu0>
+  <nu0min>2900</nu0min>
+  <nu0max>3100</nu0max>
+  <nshift>3</nshift>
+  <shifts>
+    <shift>-3000.0</shift>
+    <shift>3000.0</shift>
+    <shift>3011.0</shift>
+  </shifts>
+  <d1>5.0</d1>
+  <bigpulse>0.5</bigpulse>
+  <npulse>50000</npulse>
+  <nsubstep>2</nsubstep>
+  <nu1>50.0</nu1>
+</simulation>
