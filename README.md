@@ -12,7 +12,7 @@ series of identical multi-site presaturation pulses.
 
 ## Compilation
 
-make.
+> make
 
 ## Usage
 
