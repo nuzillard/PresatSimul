@@ -12,6 +12,10 @@ series of identical multi-site presaturation pulses.
 
 ## Compilation
 
+Source code is written in C language.
+
+Compilation can be carried out if bash, gcc and make are available.
+
 > make
 
 ## Usage
